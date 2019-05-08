@@ -53,3 +53,8 @@ body{
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 81%);
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 81%);
 }
+
+
+article .activos{
+    background-color: black;
+}
