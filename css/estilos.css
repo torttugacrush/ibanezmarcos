@@ -65,13 +65,13 @@ body{
 .activos{
     position: relative;
 
-    top: -700.2px;
+    top: -666.2px;
     background-color: rgb(18, 124, 122);
     color: rgb(255, 255, 255);
     height: 380px;
     z-index: -1;
-    -webkit-clip-path: polygon(0 6%, 100% 12%, 100% 91%, 0 73%);
-    clip-path: polygon(0 6%, 100% 12%, 100% 91%, 0 73%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 91%, 0 73%);
+    clip-path: polygon(0 0, 100% 0, 100% 91%, 0 73%);
 
 }
 .logoU{
