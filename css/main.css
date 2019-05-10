@@ -25,8 +25,11 @@ header{
 nav{
 
 }
-header{
-    height: 34em;
+.headerIndex{
+    height: 30em;
+}
+.headerG{
+    height: 17em;
 }
 
 .Titulo{
@@ -38,14 +41,19 @@ header{
   
 }
 .seccion__titurlo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
     color: #00777a;
-    font-size: 2.5em;
+    font-size: 3.5em;
     font-weight: 700;
     margin-bottom: 20px;
     margin-top: 0;
     position: relative;
     z-index: 1;
     text-align: center;
+}
+
+.ht{
+    color: #00777a;
 }
 
 .seccion__titurlo::after{
@@ -60,7 +68,9 @@ header{
     top: auto;
     width: 10%;
 }
-.margen{
 
+footer{
+    background-color: rgb(19, 52, 100); 
+    color:aliceblue;
 
 }
