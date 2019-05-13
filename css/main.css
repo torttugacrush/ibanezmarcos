@@ -78,3 +78,30 @@ footer{
     color:aliceblue;
 
 }
+.navb{
+    background: rgba(80,156,204);
+    background: -moz-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: -webkit-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: -o-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: -ms-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: linear-gradient(to right, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009ccc', endColorstr='#00cccc', GradientType=1 );
+}
+.bot6{
+    font-size: 0.7em;
+    color: #ffffff;
+    
+}
+.h7{
+    font-size: 1em
+}
+@media screen and (max-width: 576px){
+   .titulos{
+    text-align: center;
+    }
+    }
+    @media screen and (min-width:577px)and(max-width: 1200px){
+        .titulos{
+         text-align: left;
+         }
+         }
