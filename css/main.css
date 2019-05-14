@@ -87,6 +87,12 @@ footer{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009ccc', endColorstr='#00cccc', GradientType=1 );
 }
 
+ .bot6{
+    font-size: 0.65em;
+    color: #ffffff;    
+    }    
+
+
 .h7{
     font-size: 1em
 }
@@ -95,18 +101,11 @@ footer{
     text-align: center;
     font-size:2em;
     }
-    .bot6{
-    font-size: 0.65em;
-    color: #ffffff;    
-    }    
     }
     @media screen and (min-width:577px)and(max-width: 1200px){
         .titulos{
          text-align: left;
-         font-size: 3em;
+         font-size: 2.5em;
          }
-         .bot6{
-         font-size: 0.7em;
-         color: #ffffff;        
-         }
+        
          }
