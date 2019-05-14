@@ -95,33 +95,34 @@ footer{
 
 .h7{
     font-size: 1em
-}
-@media screen and (max-width: 576px){
-   .titulos{
-    text-align: center;
-    font-size:2em;
-    }
-  
-    .contacto{
-        font-size:1em;
-    }
+}@media screen and (max-width: 576px){
+    .titulos{
+     text-align: center;
+     font-size:2em;
+     }
    
-    }
-    @media screen and (min-width:577px)and(max-width: 1200px){
+     .contacto{
+         font-size:1em;
+     }
+   
+     }
+   
+
+       @media screen and (min-width:577px)and(max-width: 1200px){
         .titulos{
          text-align: left;
          font-size: 2.5em;
          }
-    
-         .hcontacto{
-            font-size:2em;
-        }
+
         
          }
+
+        
     .perfilimg{
         height:16em; 
         width:16em;
         border: 5px solid #607D8B !important;
+     
     }   
 
     .espacio{
@@ -133,8 +134,7 @@ footer{
     
     
     .iconoContacto{
-        height:1em; width:1em;
+        height:1.5em; 
+        width:1.5em;
     }
-    .htcc{
-        font-size:1.2em !important;
-    }
+   
