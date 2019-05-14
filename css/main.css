@@ -93,7 +93,7 @@ footer{
 @media screen and (max-width: 576px){
    .titulos{
     text-align: center;
-    font-size:0.65em;
+    font-size:2em;
     }
     .bot6{
     font-size: 0.65em;
@@ -103,7 +103,7 @@ footer{
     @media screen and (min-width:577px)and(max-width: 1200px){
         .titulos{
          text-align: left;
-         font-size: 0.7em;
+         font-size: 3em;
          }
          .bot6{
          font-size: 0.7em;
