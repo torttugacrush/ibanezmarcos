@@ -101,6 +101,10 @@ footer{
     text-align: center;
     font-size:2em;
     }
+  
+    .contacto{
+        font-size:1em;
+    }
    
     }
     @media screen and (min-width:577px)and(max-width: 1200px){
@@ -108,6 +112,10 @@ footer{
          text-align: left;
          font-size: 2.5em;
          }
+    
+         .hcontacto{
+            font-size:2em;
+        }
         
          }
     .perfilimg{
@@ -122,4 +130,11 @@ footer{
         width:16em;
         background-color: #607D8B; 
     }
-   
+    
+    
+    .iconoContacto{
+        height:1em; width:1em;
+    }
+    .htcc{
+        font-size:1.2em !important;
+    }
