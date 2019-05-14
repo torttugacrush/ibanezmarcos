@@ -101,6 +101,7 @@ footer{
     text-align: center;
     font-size:2em;
     }
+   
     }
     @media screen and (min-width:577px)and(max-width: 1200px){
         .titulos{
@@ -114,3 +115,11 @@ footer{
         width:16em;
         border: 5px solid #607D8B !important;
     }   
+
+    .espacio{
+        position: absolute;
+        height:16em; 
+        width:16em;
+        background-color: #607D8B; 
+    }
+   
