@@ -104,9 +104,12 @@ footer{
      .contacto{
          font-size:1em;
      }
-   
+
      }
-   
+     .iconoM{
+        font-size:1.5em;
+        text-align: center;
+       }
 
        @media screen and (min-width:577px)and(max-width: 1200px){
         .titulos{
